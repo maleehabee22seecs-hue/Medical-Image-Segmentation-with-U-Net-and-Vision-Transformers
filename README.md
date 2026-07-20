@@ -156,19 +156,6 @@ or simply open it directly in **Google Colab**.
 
 ---
 
-## 📷 Sample Results
-
-> *(Add screenshots here)*
-
-Suggested images:
-
-- Original Image
-- Ground Truth Mask
-- U-Net Prediction
-- TransUNet Prediction
-
----
-
 ## 📈 Future Improvements
 
 - Swin-UNet implementation
