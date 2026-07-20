@@ -203,6 +203,4 @@ Islamabad, Pakistan
 
 ---
 
-## ⭐ If you found this repository useful
 
-Please consider giving it a ⭐ on GitHub.
