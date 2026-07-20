@@ -123,8 +123,6 @@ Medical-Image-Segmentation-with-U-Net-and-Vision-Transformers/
 │── docs/
 │   └── paper.pdf
 
-│── images/
-
 │── README.md
 │── requirements.txt
 │── LICENSE
