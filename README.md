@@ -192,8 +192,8 @@ IEEE_deep learning, image segmentation.pdf
 
 ## 👥 Authors
 
-**Maleeha**
-**Rayyan Naeem**
+- Maleeha
+- Rayyan Naeem
 
 Electrical Engineering
 
